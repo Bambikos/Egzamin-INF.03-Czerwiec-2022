@@ -6,7 +6,7 @@
 ## 📁 Struktura
 - `stacja.html` – kod strony
 - `obliczenia.html` - kod podstrony
-- `styl.css` – style CSS
+- `styl2.css` – style CSS
 - `grafika/` – grafiki do strony
 
 ## 🧩 Wymagania
