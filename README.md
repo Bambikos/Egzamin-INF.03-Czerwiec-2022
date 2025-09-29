@@ -16,6 +16,7 @@
 
 ## 📸 Podgląd strony
 ![Podgląd strony](Screenshots/Podglad_strony.png)
+![Podgląd strony](Screenshots/Podglad_podstrony.png)
 
 ## 🏷️ Licencja
 MIT
